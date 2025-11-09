@@ -20,11 +20,4 @@ The app detects faces, extracts 68 facial landmarks, computes feature distances,
 - **scikit-learn**
 - **Streamlit**
 
----
 
-## 🛠️ Installation
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/<your-username>/facial-emotion-detector.git
-   cd facial-emotion-detector
