@@ -20,4 +20,10 @@ The app detects faces, extracts 68 facial landmarks, computes feature distances,
 - **scikit-learn**
 - **Streamlit**
 
+---
+👩‍💻 Author
 
+Manar Orf
+🎓 Advanced Technologies Engineering Student
+💡 Interested in AI, IoT, and Clean Technologies
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/manar-orf-450234155/)
